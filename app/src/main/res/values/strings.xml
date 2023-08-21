@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">M1practice</string>
+    <string name="home_heading">Speed Calculator App</string>
+    <string name="enter_time">Enter the Time</string>
+    <string name="enter_speed">Enter the Speed</string>
+    <string name="result">Result:</string>
+    <string name="calculate_distance_heading">Calculate Distance</string>
+    <string name="calculate_speed_heading">Calculate Speed</string>
+    <string name="enterDistance">Enter the Distance</string>
+    <string name="calculate_time_heading">Calculate Time</string>
+    <string name="calculate">Calculate</string>
+    <string name="back">Back</string>
+</resources>

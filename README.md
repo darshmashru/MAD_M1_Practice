@@ -19,7 +19,8 @@ ListView listview = findViewById(R.id.MainPgListView);
 
 ## Web View:
 
-Add this in the manifest file: <uses-permission android:name="android.permission.INTERNET"/>
+Add this in the manifest file: 
+`<uses-permission android:name="android.permission.INTERNET"/>`
 
 ```Java
 WebView webView = findViewById(R.id.WebViewPg2);
